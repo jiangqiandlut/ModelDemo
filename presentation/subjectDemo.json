@@ -1,0 +1,17 @@
+{
+  "subjectArea" : {
+    "name" : "subjectDemo",
+    "sourceBusinessModel" : "businessModel:BMDemo",
+    "tableOrder" : [ {
+      "name" : "presentationTable:subjectDemo.D_CHANNELS"
+    }, {
+      "name" : "presentationTable:subjectDemo.D_CUSTOMERS"
+    }, {
+      "name" : "presentationTable:subjectDemo.D_PRODUCTS"
+    }, {
+      "name" : "presentationTable:subjectDemo.D_TIMES"
+    }, {
+      "name" : "presentationTable:subjectDemo.F_SALES"
+    } ]
+  }
+}
