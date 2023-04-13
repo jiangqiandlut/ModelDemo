@@ -1,7 +1,12 @@
 {
   "physicalTable" : {
     "name" : "D_PRODUCTS",
+    "description" : "test changes in D_PRODUCTS",
     "sourceTable" : "physicalTable:MyDatabase.SH.PRODUCTS",
+    "caching" : {
+      "enable" : false,
+      "expiryTime" : 0
+    },
     "overrideSourceCacheSetting" : false
   }
 }
